@@ -1,0 +1,150 @@
+# Ticket types in KCD Helsinki 2027
+
+## KCD Tickets
+
+- Early Bird Ticket
+  - Price: 75 Eur
+  - Amount: 76
+  - Availability: 2026.02.12 - 2026.03.12
+  - Voucher: none
+  - Quota: Sponsor discount quota
+  - Standard questions
+  - Add ons
+    - Normal swag
+    - Workshop
+- Standard Ticket
+  - Price: 95 Eur
+  - Amount: 101
+  - Availability: 2026.03.13 - 2026.04.28
+  - Voucher: none
+  - Quota: Sponsor discount quota
+  - Standard questions
+  - Add ons
+    - Normal swag
+    - Workshop
+- Late Ticket
+  - Price 115 Eur
+  - Amount: 104
+  - Availability: 2026.04.29 - 2026.05.19
+  - Voucher: none
+  - Quota: Sponsor discount quota
+  - Standard questions
+  - Add ons
+    - Normal swag
+    - Workshop
+- General Student Ticket
+  - Price 35 Eur
+  - Amount: 25
+  - Availability: No limit
+  - Voucher: none, but subjet to approval
+  - Standard questions
+  - Add ons
+    - Normal swag
+    - Workshop
+- Aalto / Helsinki Unversity Student, sponsored by HAIC
+  - Price 0 Eur
+  - Amount: 50
+  - Availability: No limit
+  - Voucher: HAIC
+  - Standard questions
+  - Add ons
+    - Normal swag
+    - Workshop
+- Sponsor Ticket
+  - Price 0 Eur
+  - Amount: 54
+    - Platinum: 2 * 7 = 14
+    - Diamond: 2 * 5 = 10
+    - Gold: 10 * 2 = 20
+    - Community: 10 * 1 = 10
+  - Availability: TODO
+  - Voucher: Each sponsor has its own
+  - Standard questions
+  - Add ons
+    - Sponsor swag
+    - Workshop
+- Organizer Ticket
+  - Price 0 Eur
+  - Amount: ~10
+  - Availability: No limit
+  - Voucher: Organizer
+  - Standard questions
+  - Add ons
+    - Organizer swag
+    - Speaker dinner
+- Speaker Ticket
+  - Price 0 Eur
+  - Amount: ~45
+  - Availability: No limit
+  - Voucher: Speaker
+  - Standard questions
+  - Add ons
+    - Speaker swag
+    - Workshop
+    - Speaker dinner
+- CNCF Staff Ticket
+  - Price 0 Eur
+  - Amount: 3
+  - Availability: all
+  - Voucher: CNCF Staff
+  - Standard questions
+  - Add ons
+    - Organizer swag
+    - Workshop
+    - Speaker dinner
+- Community Ticket
+  - Price 0 Eur
+  - Amount: 12
+  - Availability: all
+  - Voucher: Community
+  - Standard questions
+  - Add ons
+    - Normal swag
+    - Workshop
+- Volunteer Ticket
+  - Price 0 Eur
+  - Amount: ~11
+  - Availability: all
+  - Voucher: Volunteer
+  - Standard questions
+  - Add ons
+    - Volunteer swag
+    - Speaker Dinner
+
+## Vouchers
+
+- HAIC
+  - Ticket type: Aalto / Helsinki Unversity Sturent, sponsored by HAIC
+  - Discount: to 0
+- Sponsor
+  - Each sponsor has its own
+  - Ticket type: Sponsor Ticket
+  - Discount: to 0
+- Sponsor discount
+  - Each sponsor has its own
+  - Amount: 56
+    - Platinum: 2 * 8 = 16
+    - Diamond: 2 * 5 = 10
+    - Gold: 10 * 2 = 20
+    - Community: 10 * 1 = 10
+  - Ticket type: Any ticket in sponsor discount quota
+  - Discount: 33% for Platinum and Diamond, 25% for gold and community
+- Organizer
+  - Ticket type: Organizer
+  - Discount: to 0
+- Speaker
+  - Ticket type: Speaker
+  - Discount: to 0
+- CNCF Staff
+  - Ticket type: CNCF Staff Ticket
+  - Discount: to 0
+- Community
+  - ticket type: Community
+  - Discount: to 0
+- Volnteer
+  - Ticket type: Volunteer
+  - Discount: to 0
+- Media
+  - Ticket type: Any ticket in sponsor discount quota
+  - Amount: 3
+  - Discount: to 0
