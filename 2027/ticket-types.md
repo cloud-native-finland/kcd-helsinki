@@ -5,7 +5,7 @@
 - Early Bird Ticket
   - Price: 75 Eur
   - Amount: 76
-  - Availability: 2026.02.12 - 2026.03.12
+  - Availability: 2027.02.12 - 2027.03.12
   - Voucher: none
   - Quota: Sponsor discount quota
   - Standard questions
@@ -15,7 +15,7 @@
 - Standard Ticket
   - Price: 95 Eur
   - Amount: 101
-  - Availability: 2026.03.13 - 2026.04.28
+  - Availability: 2027.03.13 - 2027.04.28
   - Voucher: none
   - Quota: Sponsor discount quota
   - Standard questions
@@ -25,7 +25,7 @@
 - Late Ticket
   - Price 115 Eur
   - Amount: 104
-  - Availability: 2026.04.29 - 2026.05.19
+  - Availability: 2027.04.29 - 2027.05.19
   - Voucher: none
   - Quota: Sponsor discount quota
   - Standard questions
